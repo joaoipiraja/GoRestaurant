@@ -2,7 +2,7 @@
 
 ### `4th Challenge from Ignite Bootcamp`
 
-[<img src="/screenshots/screenshot1.png" width="250"/>](screenshot1.png)
+[<img src="/screenshots/screenshot1.png" />](screenshot1.png)
 
 ### Getting Started 👨‍💻
 
