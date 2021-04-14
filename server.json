@@ -1,12 +1,12 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Carbonara 🍝",
+      "price": "59.90",
+      "description": "Macarrão com ovo, queijo e bacon defumado!",
       "available": true,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWpn-cW_MmQQslH11ZNdnZ4z5kpf4wdBl4pA&usqp=CAU"
+      "id": 2
     }
   ]
 }
